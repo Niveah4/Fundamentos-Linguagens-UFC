@@ -21,6 +21,6 @@ O ambiente de execução é o espaço onde o programa realmente roda. Ele inclui
 O diagrama básico para execução de programas seria:
 
 ### 5. **Exemplo de Diagrama de Fluxo**
-![Fluxograma de Execução de Código](02-ambientes\Diagrama_Tipos de Execução de Código.jpg)
+![Fluxograma de Execução de Código](/02-ambientes/Diagrama_Tipos20_de_Execução20_de_Código.jpg)
 
 
