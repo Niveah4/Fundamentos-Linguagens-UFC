@@ -17,10 +17,10 @@ O ambiente de execução é o espaço onde o programa realmente roda. Ele inclui
 - **Compiladores** eles traduzem o código-fonte inteiro para código de máquina de uma vez (ex: C, C++).
 - **Interpretadores** traduzem e executam o código linha por linha (ex: Python, JavaScript).
 
-### 4. **Fluxo de Execução**
-O diagrama básico para execução de programas seria:
-
-### 5. **Exemplo de Diagrama de Fluxo**
+### 4. **Exemplo de Diagrama de Fluxo**
 ![Fluxograma de Execução de Código](/02-ambientes/Diagrama_Tipos_de_Execução_de_Código.jpg)
 
+### 5. **Fluxo de Execução**
+O diagrama básico para execução de programas seria:
+![Fluxograma de Execução de Código](/02-ambientes/Diagrama_Compilador%20e%20Interpretador.drawio.png)
 
