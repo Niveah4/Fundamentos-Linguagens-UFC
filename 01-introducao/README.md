@@ -5,5 +5,5 @@ Esta seção apresenta uma visão geral sobre as **linguagens de programação**
 ===================================
 ### 1. **Linha do Tempo das Linguagens**
 A evolução das linguagens de programação pode ser dividida em diversas fases, como mostrado no fluxograma abaixo:
-![Fluxograma Linha do Tempo Linguagens](/01-introducao/Linha%do%tempo%-%Linguagens.pdf)
+![Fluxograma Linha do Tempo Linguagens](/01-introducao/Linha%20do%20tempo%20-%20Linguagens.pdf)
 
