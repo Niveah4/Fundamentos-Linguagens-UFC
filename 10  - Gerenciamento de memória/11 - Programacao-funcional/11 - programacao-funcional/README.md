@@ -1,4 +1,4 @@
-# 10 - Gerenciamewnto de Memoria
+## 10 - Gerenciamento de Memoria
 
 ### Quadro Comparativo: Gestão de Memória em C vs Python
 
