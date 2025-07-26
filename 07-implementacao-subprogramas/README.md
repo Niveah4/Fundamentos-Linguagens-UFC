@@ -46,6 +46,7 @@ Após atingir o caso base (`fatorial(0)`), as funções começam a desempilhar:
 
 ## Visual da pilha durante a chamada de `fatorial(3)`
 
-![Pilha de chamadas](/07-implementacao-subprogramas/pilha.png)
+<img src="/07-implementacao-subprogramas/pilha.png" alt="Pilha de chamadas" width="100">
+
 
 
