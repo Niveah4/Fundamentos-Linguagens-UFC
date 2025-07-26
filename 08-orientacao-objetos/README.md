@@ -11,11 +11,13 @@
 
 ## Organização do Projeto
 
+```text
 poo_transportes/
 ├── transporte.py       # Classe base e subclasses
 ├── main.py             # Código de teste com instâncias
 └── README.md           # Documentação do projeto
 
+```
 ---
 
 ## Classe Base: `Transporte`
@@ -61,6 +63,8 @@ class Aviao(Transporte):
 
 ## Exemplo de Uso
 
+
+```Python
 carro1 = Carro("Toyota", "Corolla", 4)
 bike1 = Bicicleta("Caloi", "Elite", "mountain bike")
 aviao1 = Aviao("Boeing", "747", 416)
@@ -71,7 +75,7 @@ for t in transportes:
     t.exibir_info()
     t.mover()
     print("-" * 30)
-
+```
 
 ## Resultados Esperados
 
