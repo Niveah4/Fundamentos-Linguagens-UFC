@@ -9,17 +9,6 @@
 - **Polimorfismo**: Métodos com o mesmo nome se comportam de forma diferente em subclasses.
 - **Encapsulamento**: Organização de atributos e métodos que representam comportamentos distintos de cada transporte.
 
-## Organização do Projeto
-
-```text
-poo_transportes/
-├── transporte.py       # Classe base e subclasses
-├── main.py             # Código de teste com instâncias
-└── README.md           # Documentação do projeto
-
-```
----
-
 ## Classe Base: `Transporte`
 
 class Transporte:
