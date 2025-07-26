@@ -11,6 +11,7 @@
 
 ## Classe Base: `Transporte`
 
+```Java
 class Transporte:
     def __init__(self, marca, modelo):
         self.marca = marca
@@ -21,9 +22,11 @@ class Transporte:
 
     def exibir_info(self):
         print(f"Marca: {self.marca} | Modelo: {self.modelo}")
-    
+ ```
+
 ## Subclasse: `Bicicleta`
 
+```Java
 class Bicicleta(Transporte):
     def __init__(self, marca, modelo, tipo):
         super().__init__(marca, modelo)
@@ -35,9 +38,11 @@ class Bicicleta(Transporte):
     def exibir_info(self):
         super().exibir_info()
         print(f"Tipo: {self.tipo}")
+```
 
 ## Subclasse: `Aviao`
 
+```Java
 class Aviao(Transporte):
     def __init__(self, marca, modelo, capacidade):
         super().__init__(marca, modelo)
@@ -49,6 +54,7 @@ class Aviao(Transporte):
     def exibir_info(self):
         super().exibir_info()
         print(f"Capacidade: {self.capacidade} passageiros")
+```
 
 ## Exemplo de Uso
 
