@@ -75,6 +75,7 @@ for t in transportes:
 
 ## Resultados Esperados
 
+```Python
 Marca: Toyota | Modelo: Corolla
 Número de portas: 4
 O carro Corolla está dirigindo na estrada.
@@ -87,3 +88,4 @@ Marca: Boeing | Modelo: 747
 Capacidade: 416 passageiros
 O avião 747 está voando.
 ------------------------------
+```
