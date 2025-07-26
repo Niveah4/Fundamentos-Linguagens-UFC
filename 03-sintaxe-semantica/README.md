@@ -1,6 +1,6 @@
 # 03-sintaxe-semantica
-# Fantasil - Relatório do Desafio 03
 
+## Fantasil - Relatório do Desafio 03
 ## 1. Introdução
 Este projeto apresenta a linguagem **Fantasil**, desenvolvida como parte do Desafio 03 da disciplina de Linguagens de Programação. O objetivo é demonstrar a aplicação de conceitos teóricos na criação de uma gramática fictícia, incluindo análises léxica e sintática.
 
