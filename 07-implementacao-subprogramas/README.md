@@ -44,9 +44,9 @@ Após atingir o caso base (`fatorial(0)`), as funções começam a desempilhar:
 - A pilha cresce até atingir o **caso base**, depois começa a desempilhar resolvendo as chamadas anteriores.
 - Se não houver um caso base, a pilha continua crescendo até estourar a memória → **erro de estouro de pilha (stack overflow)**.
 
-## Visual da pilha durante a chamada de `fatorial(3)`
+### Visual da pilha durante a chamada de `fatorial(3)`
 
-<img src="/07-implementacao-subprogramas/pilha.png" alt="Pilha de chamadas" width="100">
+<img src="/07-implementacao-subprogramas/pilha.png" alt="Pilha de chamadas" width="250">
 
 
 
