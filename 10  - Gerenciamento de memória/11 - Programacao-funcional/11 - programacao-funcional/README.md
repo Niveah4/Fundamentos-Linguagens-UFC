@@ -2,7 +2,6 @@
 
 ### Quadro Comparativo: Gestão de Memória em C vs Python
 
-``` Python
 
 | Aspecto                  | C                                        | Python                                  |
 |--------------------------|------------------------------------------|----------------------------------------|
@@ -15,4 +14,3 @@
 | **Ferramentas de suporte**| Debuggers e analisadores de memória externos são necessários (ex: Valgrind) | Monitoramento integrado e bibliotecas para análise de memória (ex: `gc` module) |
 | **Performance**           | Alta performance, pois o programador controla exatamente quando alocar e liberar memória | Geralmente menor performance devido ao overhead do Garbage Collector |
 | **Uso típico**            | Sistemas embarcados, sistemas operacionais, onde o controle e eficiência são críticos | Aplicações web, ciência de dados, automação, onde a facilidade e rapidez de desenvolvimento são prioritárias |
-```
