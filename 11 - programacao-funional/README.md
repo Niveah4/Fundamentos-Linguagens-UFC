@@ -1,5 +1,3 @@
-11 - Programacao Funcional
-
 ## Programação Funcional
 
 ### Introdução
